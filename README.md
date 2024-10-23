@@ -14,6 +14,17 @@ DATA folder:<br />
   gdp_pcap_world_bank: gdp per capita data from 1800-2100 for countries categorized as either developed, developing, or economy in transition <br />
 
 OUTPUT folder: <br />
+Afghanistan.png <br />
+Average GDP and Life Expectancy.png <br />
+Burkina Faso.png <br />
+Chad.png <br />
+Lebanon.png <br />
+Liberia.png <br />
+Mexico.png <br />
+Thailand.png <br /> 
+United Kingdom.png <br /> 
+United States of America.png <br />
+Vietnam.png <br />
 
 
 ## Section 3: Reproduction
