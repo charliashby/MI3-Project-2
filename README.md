@@ -9,7 +9,7 @@ Platform: Mac<br />
 DATA folder:<br />
   Project2_Data_Appendix <br />
   lex.csv: life expectancy data from 1800-2100 for every country <br />
-  gdp_pcap_world_bank: gdp per capita data from 1800-2100 for countries categorized as either developed, developing, or economy in transition <br />
+  gdp_pcap_world_bank.csv: gdp per capita data from 1800-2100 for countries categorized as either developed, developing, or economy in transition <br />
 
 OUTPUT folder: <br />
   Afghanistan.png: two axis plot over time with GDP and Life Expectancy for Afghanistan <br />
