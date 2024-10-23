@@ -6,12 +6,6 @@ Packages used: MatPlotLib <br />
 Platform: Mac<br />
 
 ## Section 2: Map of Documentation
-LICENSE.md file (MIT version) <br />
-README.md file <br />
-
-SCRIPTS folder:<br />
-  DS4002_Proj2_TimeSeries<br />
-
 DATA folder:<br />
   Project2_Data_Appendix <br />
   lex.csv: life expectancy data from 1800-2100 for every country <br />
@@ -29,6 +23,13 @@ OUTPUT folder: <br />
   United Kingdom.png: two axis plot over time with GDP and Life Expectancy for United Kingdom <br /> 
   United States of America.png: two axis plot over time with GDP and Life Expectancy for USA <br />
   Vietnam.png: two axis plot over time with GDP and Life Expectancy for Vietnam <br />
+
+SCRIPTS folder:<br />
+  DS4002_Proj2_TimeSeries<br />
+
+LICENSE.md file (MIT version) <br />
+
+README.md file <br />
 
 ## Section 3: Reproduction
 1. Download lex.csv from DATA folder <br />
